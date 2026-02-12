@@ -13,8 +13,6 @@ Unzip and run the included executable/installer (depending on the package conten
 
 ## Screenshots
 
-> The following images are stored in the repository under `docs/`.
-
 <table align="center">
   <tr>
     <td align="center"><b>Start menu</b></td>
@@ -90,12 +88,3 @@ If this repository includes the full source code (Qt/CMake typical workflow):
 
 > Adjust the commands to match your local Qt path and generator.
 
-## Contributing
-
-Issues and pull requests are welcome:
-- Bug reports: include steps to reproduce + screenshots if possible.
-- Feature requests: describe the user story and expected behavior.
-
-## License
-
-Add a license file (`LICENSE`) to clarify reuse and distribution.
